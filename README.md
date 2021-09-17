@@ -5,7 +5,7 @@ Kafka
 
 Spark 
 
-ETL: Spark DataFrame, Spark Structured Streaming
+Spark DataFrame
 
 HDFS
 
